@@ -4,11 +4,11 @@ Ola meu nome é Tayron Yuri dos Reis da Silva e eu vim apresentar o trabalho sis
 Criar um sistema de jogos contendo 3 minijogos, podendo ser feito no Falcon C++ ou no Flowgorithm. Estes minijogos são: Pergunta e resposta, Cobra na caixa! e Gousmas War. Devem ser feitos na Linguagem C ou em Flow.
 # Conteudo do Trabalho:
 Aqui contem o conteudo do trabalho, como o codigo e bem como a conversa usada durante o desenvolvimento do programa com o ChatGPT:
--- jogo --
+-- JOGO --
 
-[codigo do jogo.txt](https://github.com/user-attachments/files/19476711/codigo.do.jogo.txt)
+https://github.com/tyuri2007/tyuri2007/blob/b4f8e829d92edb8ea4a344caec51dc097b1b18b8/codigo%20do%20jogo
 
--- conversa IA --
+-- Conversa IA --
 
 ![Captura de tela 2025-03-26 190229](https://github.com/user-attachments/assets/f302b1bf-a0b8-48f1-a10e-1955249cbfef)
 
