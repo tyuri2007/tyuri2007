@@ -7,7 +7,7 @@ Aqui contem o conteudo do trabalho, como o codigo e bem como a conversa usada du
 -- JOGO --
 
 
-https://github.com/tyuri2007/tyuri2007/blob/b4f8e829d92edb8ea4a344caec51dc097b1b18b8/codigo%20do%20jogo
+https://github.com/tyuri2007/tyuri2007/blob/82130b3a584c5ad71edb061f45b30cb7cd595458/codigo%20consertado
 
 -- Conversa IA --
 
