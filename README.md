@@ -6,6 +6,7 @@ Criar um sistema de jogos contendo 3 minijogos, podendo ser feito no Falcon C++ 
 Aqui contem o conteudo do trabalho, como o codigo e bem como a conversa usada durante o desenvolvimento do programa com o ChatGPT:
 -- JOGO --
 
+
 https://github.com/tyuri2007/tyuri2007/blob/b4f8e829d92edb8ea4a344caec51dc097b1b18b8/codigo%20do%20jogo
 
 -- Conversa IA --
